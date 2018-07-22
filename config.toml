@@ -1,0 +1,5 @@
+baseURL = "https://ktotheoz.github.com/pixellight-web"
+languageCode = "en-us"
+title = "PixelLight"
+theme = "ananke"
+publishDir = "docs"
